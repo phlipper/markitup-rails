@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "Sets up the asset pipeline."
   s.authors     = ["Uri Gorelik"]
   s.email       = 'uri@ndstorefront.com'
-  s.files       = ["lib/markitup-rails.rb"]
+  #s.files       = ["lib/markitup-rails.rb"]
   s.homepage    =
     'http://rubygems.org/gems/markitup-rails'
 end
