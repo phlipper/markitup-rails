@@ -1,0 +1,61 @@
+/* -------------------------------------------------------------------
+// markItUp!
+// By Jay Salvat - http://markitup.jaysalvat.com/
+// Modified by Uri Gorelik
+// ------------------------------------------------------------------*/
+.markItUp .markItUpButton1 a {
+	background-image:url(markitup/images/h1.png); 
+}
+.markItUp .markItUpButton2 a {
+	background-image:url(markitup/images/h2.png); 
+}
+.markItUp .markItUpButton3 a {
+	background-image:url(markitup/images/h3.png); 
+}
+.markItUp .markItUpButton4 a {
+	background-image:url(markitup/images/h4.png); 
+}
+.markItUp .markItUpButton5 a {
+	background-image:url(markitup/images/h5.png); 
+}
+.markItUp .markItUpButton6 a {
+	background-image:url(markitup/images/h6.png); 
+}
+.markItUp .markItUpButton7 a {
+	background-image:url(markitup/images/paragraph.png); 
+}
+
+.markItUp .markItUpButton8 a {
+	background-image:url(markitup/images/bold.png);
+}
+.markItUp .markItUpButton9 a {
+	background-image:url(markitup/images/italic.png);
+}
+.markItUp .markItUpButton10 a {
+	background-image:url(markitup/images/stroke.png);
+}
+
+.markItUp .markItUpButton11 a {
+	background-image:url(markitup/images/list-bullet.png);
+}
+.markItUp .markItUpButton12 a {
+	background-image:url(markitup/images/list-numeric.png);
+}
+
+.markItUp .markItUpButton13 a {
+	background-image:url(markitup/images/picture.png); 
+}
+.markItUp .markItUpButton14 a {
+	background-image:url(markitup/images/link.png);
+}
+
+.markItUp .markItUpButton15 a	{
+	background-image:url(markitup/images/quotes.png);
+}
+.markItUp .markItUpButton16 a	{
+	background-image:url(markitup/images/code.png);
+}
+
+.markItUp .preview a {
+	background-image:url(markitup/images/preview.png);
+}
