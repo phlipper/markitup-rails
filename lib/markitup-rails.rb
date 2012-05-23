@@ -1,6 +1,1 @@
-module MarkItUp
-  module Rails
-    class Engine < ::Rails::Engine
-    end
-  end
-end
+require 'markitup-rails/engine'

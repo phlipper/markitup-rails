@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'markitup-rails'
-  s.version     = '0.0.1'
+  s.version     = '0.0.3'
   s.date        = '2012-05-23'
   s.summary     = "MarkItUp for rails."
   s.description = "Sets up the asset pipeline."
