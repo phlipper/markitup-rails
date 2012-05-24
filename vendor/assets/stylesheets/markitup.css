@@ -19,7 +19,7 @@
 }
 .markItUpContainer  {
 	border:1px solid #3C769D;	
-	background:#FFF url(markitup/images/bg-container.png) repeat-x top left;
+	background:#FFF url(bg-container.png) repeat-x top left;
 	padding:5px 5px 2px 5px;
 	font:11px Verdana, Arial, Helvetica, sans-serif;
 }
@@ -29,7 +29,7 @@
 	border:3px solid #3C769D;
 	width:643px;
 	height:320px;
-	background:#FFF url(markitup/images/bg-editor.png) no-repeat;
+	background:#FFF url(bg-editor.png) no-repeat;
 	clear:both;
 	line-height:18px;
 	overflow:auto;
@@ -51,7 +51,7 @@
 	width:22px; height:5px;
 	margin-left:auto;
 	margin-right:auto;
-	background-image:url(markitup/images/handle.png);
+	background-image:url(handle.png);
 	cursor:n-resize;
 }
 /***************************************************************************************/
@@ -68,7 +68,7 @@
 	display:block;
 }
 .markItUpHeader ul .markItUpDropMenu {
-	background:transparent url(markitup/images/menu.png) no-repeat 115% 50%;
+	background:transparent url(menu.png) no-repeat 115% 50%;
 	margin-right:5px;
 }
 .markItUpHeader ul .markItUpDropMenu li {
@@ -99,7 +99,7 @@
 	border-bottom:1px solid #3C769D;
 }
 .markItUpHeader ul ul .markItUpDropMenu {
-	background:#F5F5F5 url(markitup/images/submenu.png) no-repeat 100% 50%;
+	background:#F5F5F5 url(submenu.png) no-repeat 100% 50%;
 }
 /* next rows of buttons */
 .markItUpHeader ul ul ul {
@@ -131,80 +131,19 @@
 }
 /***************************************************************************************/
 .html .markItUpEditor {
-	background-image:url(markitup/images/bg-editor-html.png);
+	background-image:url(bg-editor-html.png);
 }
 .markdown .markItUpEditor {
-	background-image:url(markitup/images/bg-editor-markdown.png);
+	background-image:url(bg-editor-markdown.png);
 }
 .textile .markItUpEditor {
-	background-image:url(markitup/images/bg-editor-textile.png);
+	background-image:url(bg-editor-textile.png);
 }
 .bbcode .markItUpEditor {
-	background-image:url(markitup/images/bg-editor-bbcode.png);
+	background-image:url(bg-editor-bbcode.png);
 }
 .wiki .markItUpEditor,
 .dotclear .markItUpEditor {
-	background-image:url(markitup/images/bg-editor-wiki.png);
+	background-image:url(bg-editor-wiki.png);
 }
 
-/* -------------------------------------------------------------------
-// markItUp!
-// By Jay Salvat - http://markitup.jaysalvat.com/
-// Modified by Uri Gorelik
-// ------------------------------------------------------------------*/
-.markItUp .markItUpButton1 a {
-	background-image:url(markitup/images/h1.png); 
-}
-.markItUp .markItUpButton2 a {
-	background-image:url(markitup/images/h2.png); 
-}
-.markItUp .markItUpButton3 a {
-	background-image:url(markitup/images/h3.png); 
-}
-.markItUp .markItUpButton4 a {
-	background-image:url(markitup/images/h4.png); 
-}
-.markItUp .markItUpButton5 a {
-	background-image:url(markitup/images/h5.png); 
-}
-.markItUp .markItUpButton6 a {
-	background-image:url(markitup/images/h6.png); 
-}
-.markItUp .markItUpButton7 a {
-	background-image:url(markitup/images/paragraph.png); 
-}
-
-.markItUp .markItUpButton8 a {
-	background-image:url(markitup/images/bold.png);
-}
-.markItUp .markItUpButton9 a {
-	background-image:url(markitup/images/italic.png);
-}
-.markItUp .markItUpButton10 a {
-	background-image:url(markitup/images/stroke.png);
-}
-
-.markItUp .markItUpButton11 a {
-	background-image:url(markitup/images/list-bullet.png);
-}
-.markItUp .markItUpButton12 a {
-	background-image:url(markitup/images/list-numeric.png);
-}
-
-.markItUp .markItUpButton13 a {
-	background-image:url(markitup/images/picture.png); 
-}
-.markItUp .markItUpButton14 a {
-	background-image:url(markitup/images/link.png);
-}
-
-.markItUp .markItUpButton15 a	{
-	background-image:url(markitup/images/quotes.png);
-}
-.markItUp .markItUpButton16 a	{
-	background-image:url(markitup/images/code.png);
-}
-
-.markItUp .preview a {
-	background-image:url(markitup/images/preview.png);
-}
