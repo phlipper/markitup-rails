@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
     'https://github.com/HealthyWeb/markitup-rails'
 
   s.files        = `git ls-files`.split("\n")
-  s.platform     = Gem::Platform::RUBY
+  s.platform     = "0.2.0"
   s.require_path = 'lib'
   s.add_dependency "railties", "~> 3.0"
   s.add_development_dependency "bundler", "~> 1.0.0"
