@@ -22,7 +22,7 @@ Should support rails 3.0 and higher.
 
 Require `markitup-rails` in your `Gemfile`.
 
-    require 'markitup-rails'
+    gem 'markitup-rails'
     
 Install the gem via `bundle` command.
 
