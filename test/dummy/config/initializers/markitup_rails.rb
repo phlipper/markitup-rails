@@ -1,0 +1,1 @@
+Markitup::Rails.configure
