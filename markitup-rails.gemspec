@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["uri@ndstorefront.com", "github@phlippers.net"]
   s.homepage    = "https://github.com/HealthyWeb/markitup-rails"
 
-  s.files       = ["lib/markitup-rails.rb"]
+  s.files	= `git ls-files`.split("\n")
 
   s.add_dependency "rails", ">= 3.1"
 
