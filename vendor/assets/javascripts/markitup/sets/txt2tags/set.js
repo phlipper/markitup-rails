@@ -11,7 +11,7 @@
 // -------------------------------------------------------------------
 // Feel free to add more tags
 // -------------------------------------------------------------------
-mySettings = {
+mySettings = txt2tagsSettings = {
 	previewParserPath: "/markitup/preview", // path to your Txt2tags parser
 	onShiftEnter:		{keepDefault:false, replaceWith:'\n\n'},
 	markupSet: [

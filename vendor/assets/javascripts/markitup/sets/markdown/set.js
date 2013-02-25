@@ -10,7 +10,7 @@
 // -------------------------------------------------------------------
 // Feel free to add more tags
 // -------------------------------------------------------------------
-mySettings = {
+mySettings = markdownSettings = {
 	previewParserPath: "/markitup/preview",
 	onShiftEnter:		{keepDefault:false, openWith:'\n\n'},
 	markupSet: [

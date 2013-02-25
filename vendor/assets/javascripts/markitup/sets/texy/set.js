@@ -11,7 +11,7 @@
 // http://texy.info
 // Feel free to do anything with this.
 // -------------------------------------------------------------------
-mySettings = {	
+mySettings = texySettings = {	
 	previewParserPath: "/markitup/preview",
 	onShiftEnter:	    {keepDefault:false, replaceWith:'\n\n'},
 	markupSet: [	 

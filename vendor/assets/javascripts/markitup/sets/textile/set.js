@@ -10,7 +10,7 @@
 // -------------------------------------------------------------------
 // Feel free to add more tags
 // -------------------------------------------------------------------
-mySettings = {
+mySettings = textileSettings = {
 	previewParserPath: "/markitup/preview",
 	onShiftEnter:		{keepDefault:false, replaceWith:'\n\n'},
 	markupSet: [
