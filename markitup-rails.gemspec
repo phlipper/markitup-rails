@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.description = "The markItUp! universal markup editor, bundled for Rails 3.1+ Asset Pipeline."
   s.authors     = ["Uri Gorelik", "Phil Cohen"]
   s.email       = ["uri@ndstorefront.com", "github@phlippers.net"]
-  s.homepage    = "https://github.com/HealthyWeb/markitup-rails"
+  s.homepage    = "https://github.com/phlipper/markitup-rails"
 
   s.files	= `git ls-files`.split("\n")
 
