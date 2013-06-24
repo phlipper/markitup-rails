@@ -179,6 +179,8 @@ Many thanks go to the following who have contributed to making this gem even bet
     * complete rewrite as an engine for Rails 3.1+
     * add AJAX live preview support
     * add support for Sets and Skins, add many defaults to choose from
+* **[@ilja](https://github.com/ilja)**
+    * update markitup to version 1.1.14
 
 
 ## License
