@@ -13,7 +13,7 @@
 // Feel free to add more tags
 // -------------------------------------------------------------------
 mySettings = {
-	previewParserPath:	'', // path to your ReStructuredText parser
+	previewParserPath: "/markitup/preview",
 	onShiftEnter:		{keepDefault:false, replaceWith:'\n\n'},
 	markupSet: [
 		{name:'Heading', key:'1', placeHolder:'Your title here...', closeWith:function(markItUp) { return miu.markdownTitle(markItUp, '*') } },
