@@ -181,6 +181,8 @@ Many thanks go to the following who have contributed to making this gem even bet
     * add support for Sets and Skins, add many defaults to choose from
 * **[@ilja](https://github.com/ilja)**
     * update markitup to version 1.1.14
+* **[@zinenko](https://github.com/zinenko)**
+    * fix invalid images url in simple skin
 
 
 ## License
