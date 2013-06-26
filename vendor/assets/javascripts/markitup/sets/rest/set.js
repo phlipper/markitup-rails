@@ -12,7 +12,7 @@
 // -------------------------------------------------------------------
 // Feel free to add more tags
 // -------------------------------------------------------------------
-mySettings = {
+mySettings = restSettings = {
 	previewParserPath: "/markitup/preview",
 	onShiftEnter:		{keepDefault:false, replaceWith:'\n\n'},
 	markupSet: [

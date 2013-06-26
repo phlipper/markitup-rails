@@ -8,7 +8,7 @@
 // -------------------------------------------------------------------
 // Feel free to add more tags
 // -------------------------------------------------------------------
-mySettings = {
+mySettings = dotclearSettings = {
 	previewParserPath: "/markitup/preview", // path to your DotClear parser
 	onShiftEnter:		{keepDefault:false, replaceWith:'%%%\n'},
 	onCtrlEnter:		{keepDefault:false, replaceWith:'\n\n'},

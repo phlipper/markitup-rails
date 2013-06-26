@@ -4,7 +4,7 @@
 // Copyright (C) 2008 Jay Salvat
 // http://markitup.jaysalvat.com/
 // ----------------------------------------------------------------------------
-mySettings = {
+mySettings = xbbcodeSettings = {
   nameSpace: "xbbcode", // Useful to prevent multi-instances CSS conflict
 	previewParserPath: "/markitup/preview", // path to your XBBCode parser
 	onShiftEnter:	{keepDefault:false, replaceWith:'[br /]\n'},
