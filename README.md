@@ -185,6 +185,8 @@ Many thanks go to the following who have contributed to making this gem even bet
     * fix invalid images url in simple skin
 * **[@tamaloa](https://github.com/tamaloa)**
     * added default /markitup/preview path to all default settings
+* **[@tgjones](https://github.com/tgjones)**
+    * allow multiple settings objects to be used within a single page
 
 
 ## License
