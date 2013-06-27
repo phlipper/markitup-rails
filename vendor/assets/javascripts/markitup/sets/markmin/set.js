@@ -11,7 +11,7 @@
 // -------------------------------------------------------------------
 // Feel free to add more tags
 // -------------------------------------------------------------------
-mySettings = {
+mySettings = markminSettings = {
 	previewParserPath: "/markitup/preview",
 	onShiftEnter:		{keepDefault:false, openWith:'\n\n'},
 	markupSet: [
