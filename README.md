@@ -173,7 +173,7 @@ See the [markItUp! documentation](http://markitup.jaysalvat.com/documentation/) 
 
 Many thanks go to the following who have contributed to making this gem even better:
 
-* **[@ugorelik](https://github.com/ugorelik)**
+* **[@uri](https://github.com/uri)**
     * initial version
 * **[@phlipper](https://github.com/phlipper)**
     * complete rewrite as an engine for Rails 3.1+
